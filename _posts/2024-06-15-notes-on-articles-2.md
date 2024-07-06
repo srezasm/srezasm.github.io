@@ -15,16 +15,14 @@ description: Personal Notes on "Computation Is All Around Us, and You Can See It
 > — Friedrich Nietzsche
 
 با این دیدگاه که با داشتن اطلاعات کافی می‌توان تمام پدیده‌هارا پیش‌بینی کرد؛ آیا هیچ چیز کاملاً تصادفی‌ای در جهان وجود دارد؟
-{: dir="rtl" }
 
 > Something seemingly random, like a coin flip, can be fully described by some complex computational process that yields an unpredictable outcome of heads or tails. The outcome depends on myriad variables: the force and angle and height of the flip; the weight, diameter, thickness and distribution of mass of the coin; air resistance; gravity; the hardness of the landing surface; and so on. It’s similar for shuffling a deck of cards, rolling dice or spinning a roulette wheel — or generating “random” numbers on a computer, which just involves running some purposely complicated function. None of these is a truly random process.
 
 ---
 
-به نقل از جادی در UNIX فایل
+به نقل از جادی، در UNIX فایل
 `/dev/random`
 از ورودی‌ها و درایورهای مختلف کامپیوتر بصورت مداوم اطلاعاتی رو جمع‌آوری می‌کند(entropy) تا در تولید داده رندوم در مواقع نیاز به‌کار برده شود. این موضوع مرا به این فکر واداشت که آیا می‌توان با توابع کاملاً ریاضیاتی و بدون ورودی، عدد تصادفی‌ای تولید کرد یا خیر.
-{: dir="rtl" }
 
 > **Deterministic** refers to a process or system that is _entirely predictable_ in its behavior, given its initial conditions and the rules governing it.
 > 
@@ -32,7 +30,6 @@ description: Personal Notes on "Computation Is All Around Us, and You Can See It
 > — Chat GPT
 
 آیا می‌توان نتیجه گرفت از آنجایی که ریاضی Deterministic است، هیچ چیز تصادفی‌ای در جهان وجود ندارد؟ اگر ثابت‌شود که تمامی رخدادهای جهان بوسیله ریاضیات قابل مدل‌سازی است، می‌توان به چنین نتیجه‌ای رسید؟
-{: dir="rtl" }
 
 [Hey Chat GPT,] Could all the rules of the universe be modeled with math?
 
