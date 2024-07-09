@@ -1,7 +1,9 @@
 ---
-title: Notes on Article 2
+title: Notes on "Computation Is All Around Us, and You Can See It if You Try"
 date: 2024-06-15
-tags: [personal-notes, quanta-magazine]
+tags:
+  - personal-notes
+  - quanta-magazine
 description: Personal Notes on "Computation Is All Around Us, and You Can See It if You Try" Article
 ---
 

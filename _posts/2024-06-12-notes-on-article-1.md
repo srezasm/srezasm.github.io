@@ -1,7 +1,9 @@
 ---
-title: Notes on Article 1
+title: Notes on "The New Math of How Large-Scale Order Emerges"
 date: 2024-06-12
-tags: [personal-notes, quanta-magazine]
+tags:
+  - personal-notes
+  - quanta-magazine
 description: Personal Notes on "The New Math of How Large-Scale Order Emerges" Article
 ---
 
